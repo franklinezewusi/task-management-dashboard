@@ -21,6 +21,21 @@ A simple, responsive task management dashboard built with Next.js, TypeScript, a
 - **React Hooks** - State management
 - **localStorage** - Data persistence
 
+  ## Challenges Encountered
+ - **State Management Across Components
+     Challenge: Managing task state across multiple components while keeping them in sync.
+     Solution: Created a custom useTasks hook that centralizes all task operations and state management.
+  - **Responsive Modal Design
+      Challenge: Making the task creation/edit modal work well on all screen sizes, especially mobile.
+      Solution: Used Tailwind's responsive classes and implemented a bottom-sheet design for mobile devices.
+
+
+  ## What I Would Improve (With More Time)
+  - **Advanced Filtering
+  - **Additional Features (Calendar view, Due date reminders)
+      
+   
+
 ## Getting Started
 
 ### Prerequisites
