@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Task Management Dashboard
 
 A simple, responsive task management dashboard built with Next.js, TypeScript, and Tailwind CSS.
