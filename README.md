@@ -32,5 +32,5 @@ A simple, responsive task management dashboard built with Next.js, TypeScript, a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-management-dashboard.git
+git clone https://github.com/franklinezewusi/task-management-dashboard.git
 cd task-management-dashboard
